@@ -1,0 +1,27 @@
+A 17-year-old girl was admitted to this hospital during the coronavirus disease 2019 (Covid-19) pandemic because of fever and cough.The patient had been well until 10 days before admission, when fever and cough that was productive of clear sputum developed. She also had fatigue, eye redness,sore throat, nasal congestion, rhinorrhea, and myalgias.Seven days before this admission, the patient was evaluated in the urgent care clinic of another hospital. On examination, there was conjunctival injection in both eyes. The lungs were clear on auscultation, and the remainder of the physical examination was reportedly normal. Testing of a nasopharyngeal specimen for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA was negative.Treatment with acetaminophen and dextromethorphan was recommended.During the next 2 days, the fever decreased but did not resolve with the use of acetaminophen. New mild chest discomfort occurred with coughing. An expecto-rated sputum specimen contained flecks of blood, and the patient returned to the urgent care clinic. The physical examination was unchanged, and rapid antigen testing for influenza types A and B was negative. Additional treatment with ibu-profen, benzonatate, and guaifenesin was recommended.Three days before this admission, the patient had persistent symptoms and was unable to sleep because of the fever and cough. New shortness of breath devel-oped. She was evaluated by a primary care physician at the other hospital in a telehealth visit. Empirical treatment with amoxicillin was started, and close monitoring was recommended. During the next 3 days, the shortness of breath increased in severity, and the patient was instructed to present to the emergency department of this hospital.On evaluation, the patient reported cough that was worse with exertion and deep breathing, improved with rest, and was associated with pain in the chest and back on the left side. The sputum had streaks of bright red blood. Other symptoms include fatigue, sore throat, nasal congestion, rhinorrhea, myalgias, and pain in The eye redness had resolved, but there was mild soreness of the right eye. There was no headache, ear pain, difficulty swallowing, abdominal pain, nausea, vomiting,diarrhea, or rash.The patient had a history of developmental dysplasia of the hip and was otherwise healthy.She had normal growth and development and had received all routine childhood vaccinations.Medications included amoxicillin, acetaminophen,ibuprofen, benzonatate, guaifenesin, and dextro-methorphan. There were no known drug allergies. The patient was born in New England and lived in a suburban area of New England with her mother, father, and brother. She performed well in high school, which she was attending remotely because of the Covid-19 pandemic; she had no known sick contacts. She had traveled to a Caribbean island 1 year earlier. She was a veg-etarian and did not drink alcohol, smoke tobacco,or use illicit drugs. Her parents and brother were healthy
+
+On examination, the temperature was 38.5°C,the heart rate 124 beats per minute, the blood pressure 142/62 mm Hg, the respiratory rate 30 breaths per minute, and the oxygen saturation97% while the patient was breathing ambient air.The body-mass index (the weight in kilograms divided by the square of the height in meters)was 35.9. The patient appeared pale, and she coughed and sniffled frequently. She did not use accessory muscles while breathing, and breath sounds in the lower lung fields were decreased.There was no conjunctival injection, lymphade-nopathy, joint swelling or tenderness, or rash;the remainder of the physical examination was normal
+
+ Urinalysis revealed 3+ blood and 2+ protein; microscopic examination of the urinary sediment revealed more than 100 red cells per high-power field (reference range, 0 to 2) and 10 to 20 white cells per high-power field (reference value, <10), as well as mixed granular casts and red-cell casts. Nucleic acid testing of a nasopharyngeal specimen for SARS-CoV-2, influenza types A and B, and respiratory syncytial virus was negative.
+
+Chest radiography  revealed prominent patchy opacities in the lower lung zones. Computed tomography (CT) of the chest, performed without the administration of intravenous contrast material, revealed peripheral patchy ground-glass opacification with greater involvement of ower lobes than of the upper lobes, the lingula (left lung), and the middle lobe (right lung). There were also areas of normal-appearing lung. These findings are not specific and can be seen with infectious causes such as bacterial pneumo- nia and Covid-19, as well as with noninfectious causes such as aspiration, pulmonary hemorrhage, and less likely, alveolar proteinosis
+
+table 1(csv format)
+Variable Reference,Range,On Admission
+Hemoglobin (g/dl),12.0–16.0,6.7
+Hematocrit (%),36.0–46.0,21.1
+Platelet count (per μl),150000–450000,526000
+White‑cell count (per μl),4500–13,000,11,890
+Neutrophils,1800–8100,8810
+Lymphocytes,1200–5200,1760
+Monocytes,200–1400,880
+Creatinine (mg/dl),0.60–1.50,2.00
+Urea nitrogen (mg/dl),8–25,22
+Sodium (mmol/liter),135–145,136
+Potassium (mmol/liter),3.4–5.0,4.3
+Chloride (mmol/liter),98–108,99
+Carbon dioxide (mmol/liter),23–32,24
+Lactate dehydrogenase (U/liter),110–210,462
+C‑reactive protein (mg/liter),<8.0,77.5
+Prothrombin time (sec),11.5–14.5,15.6
+inr,0.9-1.1,1.3
